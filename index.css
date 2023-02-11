@@ -11,3 +11,7 @@ button {
     color:tomato;
     background-color: gray;
 }
+.name {
+    width: 50%;
+    height: 50%;
+}
